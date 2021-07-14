@@ -87,7 +87,7 @@ begin
 end
 
 /-
-We want to define the identity morphim, but that requires a compatability proof.
+We want to define the identity morphism, but that requires a compatability proof.
 -/
 
 theorem id_compatability (G : graph) : G.endpoints ∘ id = sym2.map id ∘ G.endpoints :=
