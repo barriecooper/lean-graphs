@@ -1,0 +1,11 @@
+name = "Graphs game"
+version = "0.1"
+extra_files = "extras"
+intro = "src/game/intro.lean"
+
+[[worlds]]
+name = "Morphisms world"
+id = 1
+levels = [
+	"src/game/morphisms-world/level1.lean",
+]
