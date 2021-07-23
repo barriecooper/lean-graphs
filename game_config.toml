@@ -8,4 +8,12 @@ name = "Morphisms world"
 id = 1
 levels = [
 	"src/game/morphisms-world/level1.lean",
+    "src/game/morphisms-world/level2.lean",
+    "src/game/morphisms-world/level3.lean",
+    "src/game/morphisms-world/level4.lean",
+    "src/game/morphisms-world/level5.lean",
+    "src/game/morphisms-world/level6.lean",
+    "src/game/morphisms-world/level7.lean",
+    "src/game/morphisms-world/level8.lean",
+    "src/game/morphisms-world/level9.lean",
 ]
