@@ -25,4 +25,9 @@ $γ ∘ (β ∘ α) = (γ ∘ β) ∘ α$.
 lemma mor_assoc {G H K L : graph} (α : G ↦ H) (β : H ↦ K) (γ : K ↦ L) : γ ⊚ (β ⊚ α) = (γ ⊚ β) ⊚ α :=
 begin
   sorry,
+
+
+  
+
+  
 end

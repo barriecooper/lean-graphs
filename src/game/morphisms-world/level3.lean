@@ -10,4 +10,9 @@ You will need to use sym2.map_id.
 lemma id_compatability (G : graph) : G.endpoints ∘ id = sym2.map id ∘ G.endpoints :=
 begin
   sorry,
+
+
+
+
+  
 end

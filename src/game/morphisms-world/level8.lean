@@ -14,4 +14,21 @@ and to apply the results left_inverse.injective and right_inverse.surjective.
 lemma iso.bij {G H : graph} (α : G ↦ H) (hyp : isomorphism α) : bijective α.vertex_map ∧ bijective α.edge_map :=
 begin
   sorry,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 end

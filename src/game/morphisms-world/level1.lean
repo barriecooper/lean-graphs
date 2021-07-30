@@ -49,4 +49,9 @@ $ε_K ∘ β_e ∘ α_e = sym2 (β_v ∘ α_v) ∘ ε_G$.
 lemma compatability {G H K : graph} (α : G ↦ H) (β : H ↦ K) : K.endpoints ∘ β.edge_map ∘ α.edge_map = sym2.map (β.vertex_map ∘ α.vertex_map) ∘ G.endpoints :=
 begin
   sorry,
+
+
+
+
+  
 end

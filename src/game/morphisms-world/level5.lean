@@ -13,4 +13,9 @@ morphism.mk.inj_eq, which splits the equality of structures into separate goals.
 lemma mor_ext {G H : graph} (α : G ↦ H) (β : G ↦ H) (hv : α.vertex_map = β.vertex_map) (he : α.edge_map = β.edge_map) : α = β :=
 begin
   sorry,
+
+
+
+
+  
 end

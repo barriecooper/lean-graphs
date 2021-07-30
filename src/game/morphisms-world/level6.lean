@@ -11,4 +11,9 @@ theorem.
 lemma eq_mor_eq_vmap {G H : graph} (α : G ↦ H) (β : G ↦ H) (hyp : α = β) : α.vertex_map = β.vertex_map :=
 begin
   sorry,
+
+
+
+
+  
 end

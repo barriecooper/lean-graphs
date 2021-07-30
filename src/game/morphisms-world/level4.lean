@@ -22,4 +22,9 @@ This is a sanity check: proving that the identity is an isomorphism.
 lemma id_is_iso (G : graph) : isomorphism (𝕀 G) :=
 begin
   sorry,
+
+
+
+
+  
 end
